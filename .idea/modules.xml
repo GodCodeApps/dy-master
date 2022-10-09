@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dy-master.iml" filepath="$PROJECT_DIR$/.idea/modules/dy-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dy-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dy-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dy-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dy-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dy-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dy-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dy-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dy-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/dy-master.modules.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/dy-master.modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/dy-master.modules.common.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/lib/dy-master.modules.lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/m3u8library/dy-master.modules.m3u8library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/playerlib/dy-master.modules.playerlib.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.sinaweibosdk:core:12.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7296a22c461246fa821617c70f4c5158/core-12.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7296a22c461246fa821617c70f4c5158/core-12.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7296a22c461246fa821617c70f4c5158/core-12.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
